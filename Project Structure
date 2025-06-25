@@ -1,0 +1,14 @@
+.
+├── docker-compose.yml
+├── nginx
+│   ├── Dockerfile
+│   └── nginx.conf
+├── service_1       # Golang service
+│   ├── Dockerfile
+│   ├── main.go
+│   └── README.md
+├── service_2       # Python Flask service
+│   ├── Dockerfile
+│   ├── app.py
+│   └── README.md
+└── README.md
